@@ -1,4 +1,4 @@
-# SPARQL Graphs Cheatsheet 📎
+# SPARQL Graphs Cheatsheets 📎
 
 Two simple cheatsheets about graph management and query in SPARQL. You can find raw svg files inside the src folder.
 The main goal of this material is to ease the understanding of SPARQL graph primitives. Moreover, it can be use to 
