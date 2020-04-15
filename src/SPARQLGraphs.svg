@@ -138,7 +138,7 @@
          id="flowPara843"
          style="stroke-width:1.20795977">    <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.20795977"
-   id="flowSpan849">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   id="flowSpan849">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
          id="flowPara845"
          style="stroke-width:1.20795977">}</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -309,7 +309,7 @@
            style="stroke-width:1.3802743"
            id="flowPara981">    <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743"
-   id="flowSpan979">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   id="flowSpan979">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
            style="stroke-width:1.3802743"
            id="flowPara983">}</flowPara></flowRoot>      <flowRoot
          inkscape:export-ydpi="96"
@@ -429,7 +429,7 @@
            id="flowPara1107"
            style="stroke-width:1.3802743">    <flowSpan
    id="flowSpan1105"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
            id="flowPara1109"
            style="stroke-width:1.3802743">}</flowPara></flowRoot>      <flowRoot
          inkscape:export-ydpi="96"
@@ -934,7 +934,7 @@
          style="stroke-width:1.3802743"
          id="flowPara1573">    <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743"
-   id="flowSpan1571">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   id="flowSpan1571">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara1575">}</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1048,7 +1048,7 @@
          style="stroke-width:1.3802743"
          id="flowPara1655">        <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743"
-   id="flowSpan1653">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   id="flowSpan1653">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara1693">    }</flowPara><flowPara
          style="stroke-width:1.3802743"
@@ -1491,7 +1491,7 @@
            id="flowPara1856"
            style="stroke-width:1.3802743">    <flowSpan
    id="flowSpan1858"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold'">?a</flowSpan> foaf:knows &quot;Marco&quot;</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold'">?a</flowSpan> foaf:knows p:Marco</flowPara><flowPara
            style="stroke-width:1.3802743"
            id="flowPara1782">    graph <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold'"
@@ -1499,7 +1499,7 @@
            style="stroke-width:1.3802743"
            id="flowPara1786">        <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:'Ebrima Bold';stroke-width:1.3802743"
-   id="flowSpan1784">?a</flowSpan> foaf:knows &quot;Mario&quot;</flowPara><flowPara
+   id="flowSpan1784">?a</flowSpan> foaf:knows p:Mario</flowPara><flowPara
            style="stroke-width:1.3802743"
            id="flowPara1788">    }</flowPara><flowPara
            style="stroke-width:1.3802743"
