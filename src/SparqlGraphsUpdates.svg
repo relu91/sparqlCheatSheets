@@ -259,9 +259,9 @@
    style="-inkscape-font-specification:'Ebrima Bold';font-family:Ebrima;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
    id="flowSpan2331">graph</flowSpan> p:g1 {</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3252">        p:p1 foaf:knows &quot;Marco&quot;.</flowPara><flowPara
+         id="flowPara3252">        p:p1 foaf:knows p:Marco .</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3262">        p:p3 foaf:knows &quot;Francesco&quot;</flowPara><flowPara
+         id="flowPara3262">        p:p3 foaf:knows p:Francesco</flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara3326">    }</flowPara><flowPara
          style="stroke-width:1.3802743"
@@ -275,7 +275,7 @@
    style="-inkscape-font-specification:'Ebrima Bold';font-family:Ebrima;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
    id="flowSpan2333">graph</flowSpan> p:g1 {        </flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3360">        p:p1 foaf:knows &quot;Giacomo&quot;.            </flowPara><flowPara
+         id="flowPara3360">        p:p1 foaf:knows p:Giacomo .            </flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara3362">    }</flowPara><flowPara
          style="stroke-width:1.3802743"
@@ -330,9 +330,9 @@
    style="-inkscape-font-specification:'Ebrima Bold';font-family:Ebrima;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
    id="flowSpan2327">WHERE</flowSpan>{</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3286">    ?p   foaf:knows &quot;Francesca&quot;.</flowPara><flowPara
+         id="flowPara3286">    ?p   foaf:knows ?n .</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3290">    ?p  foaf:name    ?n</flowPara><flowPara
+         id="flowPara3290">    ?p  foaf:name &quot;Francesca&quot;</flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara3288">}</flowPara><flowPara
          style="stroke-width:1.3802743"
@@ -728,9 +728,9 @@
    style="-inkscape-font-specification:'Ebrima Bold';font-family:Ebrima;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
    id="flowSpan2339">WHERE</flowSpan>{</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3286-9">    ?p   foaf:knows &quot;Francesca&quot;.</flowPara><flowPara
+         id="flowPara3286-9">    ?p   foaf:knows ?n .</flowPara><flowPara
          style="stroke-width:1.3802743"
-         id="flowPara3290-4">    ?p  foaf:name    ?n</flowPara><flowPara
+         id="flowPara3290-4">    ?p  foaf:name &quot;Francesca&quot;</flowPara><flowPara
          style="stroke-width:1.3802743"
          id="flowPara3288-6">}</flowPara><flowPara
          style="stroke-width:1.3802743"
@@ -1030,7 +1030,7 @@
          id="flowPara1945" /><flowPara
          id="flowPara1947">WITH &lt;IRI&gt; specifies the default graph both for GRAPH Store and for RDF Dataset. It is equivalent of wrapping all the declared triples with GRAPH &lt;IRI&gt;. </flowPara><flowPara
          id="flowPara1949" /><flowPara
-         id="flowPara1951">USING and USING NAMED have the exact semantic of FROM and FROM NAMED. </flowPara><flowPara
+         id="flowPara1951">USING and USING NAMED have the exact semantic of FROM and FROM NAMED (i.e., are used to specify the RDF Dataset). </flowPara><flowPara
          id="flowPara1953" /><flowPara
          id="flowPara1955">USING and USING NAMED they have always the highest priority over the WITH clause</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.07763214,0,0,0.07763214,123.78378,179.51505)"
